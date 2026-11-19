@@ -1,0 +1,4 @@
+warning_id,version,issued_at,area_id,severity,valid_from,valid_to
+W100,1,2026-07-12T09:00,North,watch,2026-07-12T10:00,2026-07-12T18:00
+W100,2,2026-07-12T12:30,North,warning,2026-07-12T12:30,2026-07-12T20:00
+W100,2,2026-07-12T12:30,East,warning,2026-07-12T12:30,2026-07-12T20:00

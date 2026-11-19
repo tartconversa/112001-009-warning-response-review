@@ -1,0 +1,4 @@
+area_id,group_id,exposed_estimate,channel,targeted_at,status,acknowledged_at
+North,older_adults,480,sms,2026-07-12T09:15,delivered,2026-07-12T09:40
+North,all,8400,app,2026-07-12T09:20,sent,
+East,all,5100,sms,2026-07-12T12:45,delivered,
