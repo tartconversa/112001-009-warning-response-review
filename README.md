@@ -1,15 +1,19 @@
-# Weather warning response review
+# 气象灾害预警响应复盘
 
-Synthetic warning versions, population exposure, delivery acknowledgements, shelter capacity and response records.
+用于复盘预警响应的合成预警版本、人口暴露、送达回执、避难容量和处置记录。
 
-## Requirements
+## 运行环境
 
-Python 3.11 or newer. The starter snapshot uses only the Python standard library.
+需要 Python 3.11 或更新版本。项目仅使用 Python 标准库。
 
-## Local checks
+## 本地验证
 
-Run `python -m unittest discover -s tests -v` from this directory. The baseline check validates the bundled CSV fixture shapes.
+在项目目录运行 `python -m unittest discover -s tests -v`，检查随附 CSV 样例的结构。
 
-## Data
+## 构建检查
 
-The `data/` directory contains small synthetic input records. See its README for their scope.
+运行 `python -m compileall -q tests` 检查测试文件语法。
+
+## 数据说明
+
+`data/` 目录包含少量合成输入记录，字段范围见其中的说明文件。

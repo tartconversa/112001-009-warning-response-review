@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic warning versions, population exposure, delivery acknowledgements, shelter capacity and response records.
+用于复盘预警响应的合成预警版本、人口暴露、送达回执、避难容量和处置记录。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
